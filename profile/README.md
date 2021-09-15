@@ -2,7 +2,7 @@
 
 
 
-**We Are all try to contribute all of this project:**
+**We are all try to contribute all of this project:**
 
 🙋‍♀️ Hostage web - It's open source organization?
 ☕ Contribution guidelines - clone any project and work on this?
